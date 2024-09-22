@@ -124,7 +124,7 @@ print("Answer:", answer)
 The **Interactive QA Bot** allows users to upload PDFs, extract content, and ask questions. It uses **Pinecone** for retrieval and **Cohere** for generating answers.
 
 <p align="center">
-    <img src="Images/Screenshot 2024-09-20 230039.png" alt="BannerImg">
+    <img src="Screenshot 2024-09-20 230039.png" alt="BannerImg">
 </p>
 
 ---
@@ -180,18 +180,6 @@ Update your API keys in **Back_End.py**.
 streamlit run Front_End.py
 ```
 Visit `http://localhost:8501`.
-
----
-
-## 🛠 Project Structure
-```
-/project-directory
-    ├── Front_End.py
-    ├── Back_End.py
-    ├── requirements.txt
-    ├── Dockerfile
-    └── README.md
-```
 
 ---
 
