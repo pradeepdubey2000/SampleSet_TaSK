@@ -1,3 +1,4 @@
+# TASK 1:
 # 🌟 Retrieval-Augmented Generation (RAG) Model for QA Bot 💡
 
 ## PART 1: Overview
@@ -117,6 +118,7 @@ print("Answer:", answer)
 
 ---
 
+# TASK 2:
 # 🧠 Interactive QA Bot with Document Upload 📄
 
 ## PART 2: Overview
